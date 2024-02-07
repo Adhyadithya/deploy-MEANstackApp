@@ -1,0 +1,19 @@
+{
+  "name": "meanstackapp",
+  "version": "1.0.0",
+  "description": "Full Stack Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Adithya",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "dotenv": "^16.4.1",
+    "express": "*",
+    "mongoose": "^8.1.1"
+  }
+}
